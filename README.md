@@ -1,7 +1,7 @@
-# Earth Theme
+# Nature Theme
 
 
-* The Nature Dark Theme for Brackets!
+* The Nature is a Dark Theme for Brackets!
 
 # How to install
 
