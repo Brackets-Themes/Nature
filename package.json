@@ -1,0 +1,20 @@
+{
+    "title": "Nature",
+    "name": "nature-theme",
+    "description": "Dark theme.",
+    "version": "0.1.0",
+    "author": "Denisov21 (https://github.com/Denisov21)",
+    "homepage": "https://github.com/Brackets-Themes/Nature",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Nature.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "nature.css",
+        "dark": true
+    }
+}
