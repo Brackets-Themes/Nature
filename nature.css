@@ -36,11 +36,11 @@
 }
 
 .CodeMirror-cursor {
-	border-left: 1px solid #ff8500 !important;
+	border-left: 1px solid #ff8500;
 }
 
 .CodeMirror-overwrite .CodeMirror-cursor {
-    border-bottom: 2px solid #7dc773 !important;
+    border-bottom: 2px solid #7dc773;
     border-left: none !important;
 }
 
