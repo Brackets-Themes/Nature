@@ -147,7 +147,6 @@ color: trasparent !important;
 
 /* Code Folding (https://github.com/thehogfather/brackets-code-folding) and Brackets 1.3 (Code Folding)*/
 .CodeMirror-foldgutter,
-.CodeMirror-foldgutter,
 .CodeMirror-foldgutter-blank,
 .CodeMirror-foldgutter-folded,
 .CodeMirror-foldgutter-open,
@@ -156,7 +155,7 @@ color: trasparent !important;
     color: #00a8c6;
 }
 
-.CodeMirror-foldgutter-open:after {/*content: "\25bd";*/ color: #ff8500;}
+.CodeMirror-foldgutter-open::after {/*content: "\25bd";*/ color: #ff8500;}
 .CodeMirror-foldmarker {background-color: #00A8C6; border-color: #5C5C5C; color: #ede0ce; padding: 0 10px;}
 
 /* Show Whitespace (https://github.com/DennisKehrig/brackets-show-whitespace)*/
